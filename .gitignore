@@ -1,0 +1,6 @@
+*.log
+*.raw
+ChangeLog.txt
+Remove.txt
+examples/
+lib/
